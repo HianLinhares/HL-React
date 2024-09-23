@@ -1,1 +1,0 @@
-Estudos sobre a biblioteca React

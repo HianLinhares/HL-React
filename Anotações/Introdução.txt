@@ -1,0 +1,36 @@
+Estudos sobre a biblioteca React
+
+
+REACT - uma biblioteca javascript para criar interfaces de usuários
+
+{
+    Criado em 2001 por Jordan Walke no Facebook, baseado no XHP, um framework para criação de HTML
+    no php, utilizado no mudal de notícias de ferramenta
+
+
+    2012 - Utilizado no Instagram
+    2013 - Anúncio para liberação OPenSource na JSConfUs
+    2015 - React Native
+    2015 - UWP (Universal Windows Platform)
+
+
+    A principla função é a criação da interface para o usuário
+
+    React é uma linguagem declarativa
+
+    Pode ser utilizado em qualquer lugar 
+}
+
+
+
+{
+    CRIANDO PROJETO 
+
+    1)Instalar o node
+    2)Instalar o N - https://github.com/tj/n
+    3)npm create vite@latest
+    4)alterei a versão do Json para 1.0.0
+    5)npm i
+    6)npm run dev
+
+}
