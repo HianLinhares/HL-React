@@ -1,0 +1,48 @@
+O que é o React
+* O react é uma biblioteca usada para criar interfaces de usuário interativas
+
+Por que aprender React ?
+* Tecnologia mantida por uma empresa sólida (Meta)
+* Melhor tecnologia para se tornar um programador front-end e fullstack
+* Aprenda uma vez, use em qualquer lugar IOS & ANDROID (React Native) & Desktop (Electron)
+* É a tecnologia mais demandada pelo mercado atualmente (e isso já há vários anos)
+* É utilizado por diversar empresas como instagram, netflix, airbnb
+
+
+Componentes
+* No react dividimos a aplicação em pequenos Componentes
+* Vários componentes, quando combinados, formam grandes estruturas
+* Pense neles como se fossem peças de lego
+* Usamos JSX para escreve-los
+
+
+NPM - Gerenciador de pacotes para o node
+
+Extensões: Tailwind
+
+
+Criando projeto
+npm create vite@5.5.2.
+npm install 
+npm run dev
+
+
+Estrutura de pastas
+package.json - arquivo de configurações
+
+
+SPA - SINGLE PAGE APPLICATION
+*O conteúdo inserido por meio de javascript, página de HTML é vazia
+* Velocidade: navegação entre páginas é muito mais rápido, pois não exige chamadas para um servidor
+* Experiência do usuário: SPA são altamente interativas e perfomaticas
+
+
+Regras
+
+* Um componente renderizado deverá ter sua primeira letra maiúscula
+<App/>
+<Button/>
+
+* Não é permitido retornar mais de um elemento (posso colocar tudo dentro de uma div)
+
+
