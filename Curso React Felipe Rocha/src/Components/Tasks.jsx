@@ -9,7 +9,7 @@ function Tasks(props){
              onClick={() =>{props.onTaskClick}} className={`bg-slate-400 text-white p-2 rounded-md text-left ${task.isCompleted && "line-through"}`}>
              {task.title}
             </button>
-            <button className='bg-slate-400 p-2 rounded-md text-white'>
+            <button className='bg-slate-400 p-2 rounded-md text-gray-50'>
             <ChevronRightIcon/>
             </button>
             </li>
