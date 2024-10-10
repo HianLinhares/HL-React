@@ -51,5 +51,5 @@ TailwindCSS
 Uma biblioteca que permite que seja estilizados utilizando classes utilitarias 
 
 LER:
-DOCUMENTAÇÃO DO Tailwind
-DOCUMENTAÇÃO DO Lucide (Icones)
+DOCUMENTAÇÃO DO Tailwind https://tailwindcss.com/docs/guides/create-react-app
+DOCUMENTAÇÃO DO Lucide (Icones) https://lucide.dev/icons/fish
