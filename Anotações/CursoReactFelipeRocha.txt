@@ -46,3 +46,10 @@ Regras
 * Não é permitido retornar mais de um elemento (posso colocar tudo dentro de uma div)
 
 
+TailwindCSS
+
+Uma biblioteca que permite que seja estilizados utilizando classes utilitarias 
+
+LER:
+DOCUMENTAÇÃO DO Tailwind
+DOCUMENTAÇÃO DO Lucide (Icones)
